@@ -1,2 +1,5 @@
-# IT_rep
-git_study
+# Git教程
+---
+- 单人开发中使用
+- 多人开发中使用
+- Gitflow工作流

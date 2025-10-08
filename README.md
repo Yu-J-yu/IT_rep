@@ -58,5 +58,6 @@
 - 8、回到Github，找到设置-SSH and GPG keys,生成新的SSH键
 - 9、添加标题（自定义），将复制的SSH公钥内容复制到对应位置，提交即可
 - 10、根据提示回到终端输入指令：$ ssh -T git@github.com,之后等待连接github服务器，如果看到有successfully字眼，代表配置成功
+- 11、然后回到github仓库，复制其SSH链接，回到终端：git clone SSh链接，就可以将仓github仓库下载到文件夹，然后可以进入到文件夹，操作文件(添加上修改等)，最后在终端上 git push,将可以同步操作的文件到github仓库了
 ---
 ### Gitflow工作流
